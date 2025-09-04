@@ -1,0 +1,44 @@
+class BillData {
+  final String selectedRegion;
+  final String lastIndex;
+  final String currentIndex;
+  final String redevanceFix;
+  final String droitFix;
+  final String taxHabitation;
+  final String timbre;
+  final String lastIndexGaz;
+  final String currentIndexGaz;
+  final double t1ElectrityHT;
+  final double t2ElectrityHT;
+  final double t1GazHT;
+  final double t2GazHT;
+  final double consommationE;
+  final double consommationG;
+  final double priceE;
+  final double priceG;
+  final double contribution;
+  final double totalPrice;
+
+  BillData({
+    required this.selectedRegion,
+    required this.lastIndex,
+    required this.currentIndex,
+    required this.redevanceFix,
+    required this.droitFix,
+    required this.taxHabitation,
+    required this.timbre,
+    required this.lastIndexGaz,
+    required this.currentIndexGaz,
+    required this.t1ElectrityHT,
+    required this.t2ElectrityHT,
+    required this.t1GazHT,
+    required this.t2GazHT,
+    required this.consommationE,
+    required this.consommationG,
+    required this.priceE,
+    required this.priceG,
+    required this.contribution,
+    required this.totalPrice,
+  });
+}
+
