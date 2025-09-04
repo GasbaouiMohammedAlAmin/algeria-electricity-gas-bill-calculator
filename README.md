@@ -125,5 +125,5 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## 📞 Contact
 
 - **Issues**: [GitHub Issues](https://github.com/GasbaouiMohammedAlAmin/algeria-electricity-gas-bill-calculator/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/GasbaouiMohammedAlAmin/algeria-electricity-gas-bill-calculator/discussions)
+- **Email**: aminegasa2015@hotmail.com
 
